@@ -1,6 +1,6 @@
 Here’s a professional **README.md** for your ERP Attendance System project that you can use on GitHub:
 
-````markdown
+
 # ERP Attendance System
 
 A simple and efficient **ERP Attendance System** built with **Spring Boot**, **Thymeleaf**, **Bootstrap**, and **MySQL**. This system allows students to mark their attendance and teachers to view and manage attendance records by date.
@@ -60,7 +60,7 @@ A simple and efficient **ERP Attendance System** built with **Spring Boot**, **T
    ```bash
    git clone https://github.com/your-username/erp-attendance-system.git
    cd erp-attendance-system
-````
+
 
 2. **Configure MySQL**
 
@@ -137,15 +137,3 @@ erp-attendance-system/
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-If you want, I can also **add badges for build status, Java version, Spring Boot, and MySQL** to make it look professional on GitHub.  
-
-Do you want me to do that?
-```

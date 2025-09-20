@@ -58,8 +58,8 @@ A simple and efficient **ERP Attendance System** built with **Spring Boot**, **T
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/erp-attendance-system.git
-   cd erp-attendance-system
+   git clone https://github.com/adityadevraj699/OnlineAttandenceSystem.git
+   cd OnlineAttandenceSystem
 
 
 2. **Configure MySQL**
@@ -115,16 +115,14 @@ erp-attendance-system/
 ## Screenshots
 
 ### Home Page
-
-![Home](screenshots/home.png)
+![Home Page](https://res.cloudinary.com/ddtcj9ks5/image/upload/v1758392455/Screenshot_2025-09-20_234903_cx3jh7.png)
 
 ### Student Dashboard
-
-![Student](screenshots/student.png)
+![Student Dashboard](https://res.cloudinary.com/ddtcj9ks5/image/upload/v1758392454/Screenshot_2025-09-20_234925_jr5os1.png)
 
 ### Teacher Dashboard
+![Teacher Dashboard](https://res.cloudinary.com/ddtcj9ks5/image/upload/v1758392455/Screenshot_2025-09-20_234950_vjyw4x.png)
 
-![Teacher](screenshots/teacher.png)
 
 ---
 
